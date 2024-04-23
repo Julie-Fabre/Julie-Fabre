@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Julie-Fabre/Julie-Fabre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am PhD student in Kenneth Harris and Matteo Carandini's lab at University College London. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are a few of my open source ressources:
+- For Neuropixels probes:
+  - automated quality control [bombcell](https://github.com/Julie-Fabre/bombcell)
+  - a curated list of [awesome_neuropixels](https://github.com/Julie-Fabre/awesome_neuropixels) resources
+  - [YAHT: Yet Another Histology Tool](https://github.com/Julie-Fabre/YAHT)
+- For science/academia:
+  - a curated list of [awesome_science](https://github.com/Julie-Fabre/awesome_science) resources
+  - [a set of code to prettify MATLAB plots and scripts](https://github.com/Julie-Fabre/prettify_matlab)
+  - [a LaTeX PhD thesis template for UCL](https://github.com/Julie-Fabre/LaTeX_PhD_template_UCL)
