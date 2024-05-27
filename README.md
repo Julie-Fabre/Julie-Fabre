@@ -4,7 +4,7 @@ I'm a neuroscience PhD candidate in the labs of Kenneth Harris and Matteo Carand
 
 #### For extracellular electrophysiology (especially Neuropixels):
 - **Automated quality control:** [bombcell](https://github.com/Julie-Fabre/bombcell)
-- **Curated Neuropixelsresources:** [awesome_neuropixels](https://github.com/Julie-Fabre/awesome_neuropixels)
+- **Curated Neuropixels resources:** [awesome_neuropixels](https://github.com/Julie-Fabre/awesome_neuropixels)
 - **Histology tool:** [YAHT: Yet Another Histology Tool](https://github.com/Julie-Fabre/YAHT)
 
 #### For anatomical projections:
