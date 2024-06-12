@@ -1,4 +1,2 @@
 
-
-
-![hi_there](https://github.com/Julie-Fabre/Julie-Fabre/assets/29582008/e07d5799-c639-457a-92d2-3e1ec33e6b3c)
+![hello_world_git](https://github.com/Julie-Fabre/Julie-Fabre/assets/29582008/c64d8e75-353e-477d-bfea-070b3aa90c6e)
