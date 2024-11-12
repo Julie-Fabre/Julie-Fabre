@@ -1,1 +1,1 @@
-![hello_world_git](https://github.com/user-attachments/assets/a2f4bb23-2dae-48d6-b85a-82ae7c3cca91)
+![hi_there](https://github.com/user-attachments/assets/fd0cbb1b-7a72-4161-9455-c013d3647a31)
